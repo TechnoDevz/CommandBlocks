@@ -2,7 +2,7 @@ name: CommandBlocks
 author: Ad5001
 main: Ad5001\CMDBlock\main
 version: 1.1.1
-api: [2.0.0]
+api: [3.3.0]
 commands:
     cmdblock:
         description: Get help about cmd blocks
